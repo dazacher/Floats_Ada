@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__floats.o
+[PROJECT FILES]
+C:\Users\User\Ada\Floats_Ada\floats.gpr
+20210716144610 b164e70604bd763706d015ce0db9aeb0
+[BOUND OBJECT FILES]
+C:\Users\User\Ada\Floats_Ada\obj\floats.o
+[GENERATED SOURCE FILES]
+b__floats.ads
+b__floats.adb
+b__floats.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Ada\Floats_Ada\obj\
+-LC:\Users\User\Ada\Floats_Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
